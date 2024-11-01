@@ -1,4 +1,4 @@
-# Picky: LLM/RAG-based Movie Recommendation System 
+# LLM/RAG-based Movie Recommendation System 
 ## Overview
 
 Picky project is a movie recommendation system that involves three distinct recommendation techniques to provide a holistic and personalized user experience.
